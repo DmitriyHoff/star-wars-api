@@ -135,26 +135,26 @@ body {
 }
 
 .bg-1 {
-  background-image: url('https://th.bing.com/th/id/R.48d80edfb564ba15bc78a8537a23a23c?rik=RHT1BVC%2fz2InLw&riu=http%3a%2f%2fcontent.propstore.com%2fliveauction%2flots%2f301starwarsoriginalposter%2fimg2.jpg&ehk=e%2fUKkF5TqlkTR7ZshfyH%2bHS29g7QiGZ7iIARnxNXPxY%3d&risl=&pid=ImgRaw&r=0');
+  background-image: url('./img/01.jpeg');
 }
 .bg-2 {
-  background-image: url('https://th.bing.com/th/id/R.c362b8ffa3c72b89ea9ed8ba94d48bac?rik=f8kUDAas0zQvXQ&riu=http%3a%2f%2fluxurylaunches.com%2fwp-content%2fuploads%2f2018%2f08%2fempire_strikes_back_roger_kastel_concept_poster.jpg&ehk=9HyF0KUDHxouuA0zJivMgX1s%2fpPINgpsgRrGfFHz7o8%3d&risl=&pid=ImgRaw&r=0');
+  background-image: url('./img/02.jpeg');
 }
 .bg-3 {
-  background-image: url('https://www.hdwallpaper.nu/wp-content/uploads/2018/12/star_wars_episode_vi_return_of_the_jedi-12.jpg');
+  background-image: url('./img/03.jpg');
 }
 .bg-4 {
-  background-image: url('https://starwarsreporter.com/wp-content/uploads/2016/05/Phantom-menace2-500x381.jpg');
+  background-image: url('./img/04.jpg');
 }
 .bg-5 {
-  background-image: url('https://th.bing.com/th/id/R.515a5646499031a4ff2beef998620c33?rik=XdY9fJC%2b0tYH6Q&pid=ImgRaw&r=0');
+  background-image: url('./img/05.jpeg');
 }
 .bg-6 {
-  background-image: url('https://wallup.net/wp-content/uploads/2016/03/09/53897-movies-Star_Wars-Star_Wars_Episode_III_-_The_Revenge_of_the_Sith-Anakin_Skywalker-Padme_Amidala-Obi-Wan_Kenobi.jpg');
+  background-image: url('./img/06.jpg');
 }
 
 .bg-7 {
-  background-image: url('https://images.expothemes.com/star-wars-episode-vii-the-force-awakens/images/star-wars-episode-vii-the-force-awakens-windows-theme-1-hd.jpg');
+  background-image: url('./img/07.jpg');
 }
 
 .page {
